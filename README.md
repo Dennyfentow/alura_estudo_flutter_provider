@@ -46,7 +46,7 @@ O projeto do curso consiste em um gerenciamento de clientes de maneira que podem
 
 ## 📚 Mais informações do curso
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]() que desenvolve o projeto desde o começo!
+Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/flutter-gerenciamento-de-estados-provider) que desenvolve o projeto desde o começo!
 
 Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
 
